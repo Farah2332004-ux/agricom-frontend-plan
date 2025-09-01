@@ -1,7 +1,7 @@
 # 🌾 Harvest Simulator – Production Module
 
 The Harvest Simulator allows users to visualize and plan harvest outputs over a selected period. The interface helps compare forecasted harvest, planned activities, and simulate outcomes based on interventions like fertilization or labor shifts.
-
+![Harvest Simulator](../images/harvest-simulator.png)
 ---
 
 ## 🧩 Component Breakdown
