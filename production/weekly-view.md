@@ -2,7 +2,7 @@
 
 This view provides a **calendar-based matrix** of expected crop production per plot, week by week, aligned with forecasted demand and potential loss.
 Users can track **seeding**, **growing**, **ripening**, and **harvest** phases and interact with plots and crops to update tasks or review risks.
-
+![Weekly View](../images/weekly-view.png)
 ---
 
 ## 🧩 Component Breakdown
