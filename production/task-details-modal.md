@@ -1,7 +1,7 @@
 # 🧾 Task Details Modal – Production Module
 
 This modal provides detailed information and management options for individual production tasks. It is triggered from the weekly production grid and enables users to inspect task parameters, edit assignments, track progress, and access related data.
-
+![Task Details](../images/task-details.png)
 ---
 
 ## 🧩 Component Breakdown
