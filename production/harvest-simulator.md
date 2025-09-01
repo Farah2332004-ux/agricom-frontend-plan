@@ -24,7 +24,7 @@ The Harvest Simulator allows users to visualize and plan harvest outputs over a 
 | Component Type            | Description                                                                     | Time (hrs) |
 | ------------------------- | ------------------------------------------------------------------------------- | ---------- |
 | 🧩 **New Components**     | Components that are **custom or partially reusable** and require implementation | **7 hrs**  |
-| ♻️ **Shared Components**  | Components already implemented and reused here (from `general.md`)              | **5 hrs**  |
+| ♻️ **Shared Components**  | Components already implemented and reused here (from `general.md`)              | **2.5 hrs**  |
 | ✅ **Total Combined Time** | Sum of new + shared component estimates for this view                           | **12 hrs** |
 
 ---
